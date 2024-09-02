@@ -12,6 +12,8 @@ red = (213, 50, 80)
 green = (0, 255, 0)
 blue = (50, 153, 213)
 
+# print(black, white, red, green, blue)
+
 # Define screen dimensions
 dis_width = 600
 dis_height = 400
